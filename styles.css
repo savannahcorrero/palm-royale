@@ -60,3 +60,26 @@ nav img {
     background-color: #DACAD4;
     color: #0D2C32;
 }
+
+
+/* HERO */
+.hero {
+    width: 100%;
+    height: 81vh;
+    z-index: 1;
+    position: relative;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sunshine {
+    position: absolute;
+    top: 90%;
+    left: 58%;
+    background-color: transparent;
+    width: 40%;
+}
