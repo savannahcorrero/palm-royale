@@ -83,3 +83,31 @@ nav img {
     background-color: transparent;
     width: 40%;
 }
+
+
+/* ABOUT */
+.about img {
+    width: 50%;
+    padding: 10px;
+}
+
+.about {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about p {
+    width: 55%;
+    font-size: 17px;
+    font-weight: 100;
+    text-align: center;
+    color: #B7AEBD;
+}
+
+.line {
+    margin-top: -2px;
+    margin-bottom: -2px;
+    color: #DACAD4;
+}
